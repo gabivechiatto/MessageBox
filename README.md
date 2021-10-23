@@ -7,9 +7,9 @@
 ## Como usar? ##
  
  <div align="center">
-  <img src="messagebox1.png" alt="Message Box 1" width="300"/>
-  <img src="messagebox2.png" alt="Message Box 2" width="300"/>
-  <img src="messagebox3.png" alt="Message Box 3" width="300"/>
+  <img src="messagebox1.png" alt="Message Box 1"/>
+  <img src="messagebox2.png" alt="Message Box 2"/>
+  <img src="messagebox3.png" alt="Message Box 3"/>
  </div>
 
   &#xa0;
