@@ -29,7 +29,7 @@
 
 ## :dart: Sobre ##
 
-MessageBox é uma aplicação para mostrar envio de mensagens em eventos on-line.
+MessageBox é uma aplicação para mostrar envio de mensagens em eventos on-line, com autenticação através de oauth do GitHub.
 
 ## :rocket: Tecnologias ##
 
