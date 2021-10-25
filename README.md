@@ -2,7 +2,7 @@
 
 <p>Projeto de envio de mensagens para eventos on-line (front e back)</p>
 
-<p>Tecnologias utilizadas: React, Vite, Prisma, Yarn. </p>
+<p>Tecnologias utilizadas: React, Vite, Prisma, Insomnia, Express, Yarn. </p>
  
 ## Como usar? ##
  
@@ -38,6 +38,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Prisma](https://www.prisma.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Insomnia](https://insomnia.rest/download)
 - [Yarn](https://yarnpkg.com/)
 
 ## :white_check_mark: Pré-requisitos ##
